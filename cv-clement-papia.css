@@ -1,0 +1,48 @@
+body{
+    background-image: url(Photo.png);
+}
+    
+h1{       
+    font-family: Italic;
+    color: red;
+    text-decoration: underline red;
+    font-size: 25px;
+    line-height: 2;
+    text-shadow: 1px 1px 2px black;
+
+}
+.formation1 p{
+    font-family: unset;
+    color: brown;
+    font-size: large;
+    line-height: normal;
+    word-spacing: 2px;
+}
+.formation2 p{
+    font-family: Impact;
+    color: blue;
+    font-size: medium;
+    line-height: normal;
+    word-spacing: 4px;
+}    
+.formation3 p{
+    font-family: monospace;
+    color: black;
+    font-size: 20px;
+    line-height: normal;
+    word-spacing: 5px;
+}
+.formation4 p{
+    font-family: serif;
+    color:  green;
+    font-size: medium;
+    line-height: normal;
+    word-spacing: 1px;
+}
+.formation5 p{
+    font-family: verdana;
+    color: gray;
+    font-size: medium;
+    line-height: normal;
+    word-spacing: 6px;
+}
